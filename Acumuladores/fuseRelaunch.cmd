@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Desktop/Proyectos/Acumuladores/TB_Acumulador_A_isim_beh.exe" -prj "/home/ise/Desktop/Proyectos/Acumuladores/TB_Acumulador_A_beh.prj" "work.TB_Acumulador_A" 
